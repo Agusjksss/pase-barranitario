@@ -64,7 +64,7 @@ function formatDate(date) {
 
 const vacunasOptions = [
   "Sinopharm Vacuna SARSCOV 2",
-  "Sputnik V COVID19 Instituto Gamaleya",
+  "Sputnik V COVID19 Instituto",
   "AstraZeneca ChAdOx1 S recombinante",
   "Janssen Ad26 COV2 S", // De Janssen no estoy seguro necesito un token de muestra o una foto pero se que esta
   "Pfizer-BioNTech COVID-19",
